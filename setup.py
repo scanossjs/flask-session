@@ -14,6 +14,7 @@ Links
 """
 from setuptools import setup
 
+Test
 
 setup(
     name='Flask-Session',

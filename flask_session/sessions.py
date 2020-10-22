@@ -8,6 +8,7 @@
     :copyright: (c) 2014 by Shipeng Feng.
     :license: BSD, see LICENSE for more details.
 """
+import os
 import sys
 import time
 from datetime import datetime

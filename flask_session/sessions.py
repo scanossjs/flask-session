@@ -10,7 +10,7 @@
 """
 
 import os
-
+import regex
 import sys
 import time
 from datetime import datetime

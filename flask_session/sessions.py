@@ -9,6 +9,7 @@
     :license: BSD, see LICENSE for more details.
 """
 import os
+import regex
 import sys
 import time
 from datetime import datetime

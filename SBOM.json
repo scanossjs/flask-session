@@ -11,9 +11,6 @@
       "name": "flask-session",
       "url": "https://github.com/fengsp/flask-session",
       "licenses": [
-        {
-            "id": "GPL-2.0-or-later"
-          }
       ]
     }
   ]

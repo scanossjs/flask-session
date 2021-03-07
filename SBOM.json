@@ -22,6 +22,16 @@
       "licenses": [
         "Zlib"
       ]
+    },
+    {
+      "type": "library",
+      "publisher": "test",
+      "group": "test",
+      "name": "test",
+      "url": "https://github.com/test/test",
+      "licenses": [
+        "MIT"
+      ]
     }
   ]
 }
